@@ -1,0 +1,68 @@
+#container {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#contentblowout {
+	
+	font-family: Arial;
+	text-align: center;
+  color: white;
+
+}
+
+#contentwool {
+  
+  font-family: arial;
+  text-align: center;
+  color: #BA0031;
+
+}
+
+#block {
+  width: 600px;
+}
+
+
+body {
+background: rgb(240,244,108);
+background: linear-gradient(117deg, rgba(240,244,108,1) 0%, rgba(137,217,65,1) 35%, rgba(238,176,134,1) 100%);
+
+     font-family: "Arial";
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+
+
+
+#header {
+
+	padding: 10px;
+}
+
+a {
+	color: black;
+}
+
+a:link {
+  text-decoration: none;
+  background-color: yellow;
+}
+
+a:visited {
+  text-decoration: none;
+  background-color: yellow;
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: pink;
+}
+
+a:active {
+  text-decoration: none;
+  background-color: yellow;
+}
