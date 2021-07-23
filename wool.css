@@ -1,0 +1,65 @@
+#container {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#content {
+  
+  font-family: arial;
+  text-align: center;
+  color: #e08e00;
+
+}
+
+#block {
+  width: 600px;
+}
+
+
+body {
+background: rgb(157,21,6);
+background: linear-gradient(127deg, rgba(157,21,6,1) 0%, rgba(122,31,1,1) 43%, rgba(178,92,87,1) 100%);
+
+     font-family: "Arial";
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+
+
+
+#header {
+
+	padding: 10px;
+}
+
+
+a:link {
+  text-decoration: none;
+  background-color: yellow;
+}
+
+
+
+a:hover {
+  text-decoration: none;
+  background-color: pink;
+}
+
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+
+
+
+
+.round {
+    border-radius: 50%;
+}
