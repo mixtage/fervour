@@ -35,26 +35,21 @@ body {
 	padding: 10px;
 }
 
-a {
-	color: black;
-}
-
 a:link {
   text-decoration: none;
   background-color: yellow;
 }
 
-a:visited {
-  text-decoration: none;
-  background-color: yellow;
-}
+
 
 a:hover {
   text-decoration: none;
   background-color: pink;
 }
 
-a:active {
-  text-decoration: none;
-  background-color: yellow;
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
 }
