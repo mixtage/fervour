@@ -1,0 +1,57 @@
+#container {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content {
+	
+	font-family: Arial;
+	text-align: center;
+  color: #EE6F53;
+
+}
+
+
+body {
+background: rgb(157,102,51);
+background: linear-gradient(90deg, rgba(157,102,51,1) 0%, rgba(111,24,60,1) 50%, rgba(25,2,28,1) 100%);
+     font-family: "Arial";
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+
+
+#header {
+
+	padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  background-color: yellow;
+}
+
+
+
+a:hover {
+  text-decoration: none;
+  background-color: pink;
+}
+
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+
+
+
+
+.round {
+    border-radius: 50%;
+}
