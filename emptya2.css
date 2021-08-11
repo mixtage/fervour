@@ -19,7 +19,7 @@ body {
 
     background: black;
      font-family: "Arial";
-
+display: flex;
    align-items: center;
    justify-content: center;
    color: orange;
