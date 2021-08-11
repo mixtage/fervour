@@ -1,0 +1,69 @@
+#container {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content {
+	
+	font-family: Arial;
+	text-align: center;
+  color: red;
+
+}
+
+
+#block {
+  width: 600px;
+}
+
+#pic {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+background: black;
+
+     font-family: "Arial";
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+
+
+
+#header {
+
+	padding: 10px;
+}
+
+
+a:link {
+  text-decoration: none;
+  background-color: yellow;
+}
+
+
+
+a:hover {
+  text-decoration: none;
+  background-color: pink;
+}
+
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+
+
+
+
+.round {
+    border-radius: 50%;
+}
