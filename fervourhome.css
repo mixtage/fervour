@@ -6,31 +6,26 @@
 
 #content {
 	
-	font-family: Arial;
+	font-family: solomon;
 	text-align: center;
+  color: yellow;
 
+}
+
+p {
+  font-family: arial;
 }
 
 
 body {
-  background: red;
+background: rgb(231,79,37);
+background: linear-gradient(104deg, rgba(231,79,37,1) 0%, rgba(133,1,1,1) 24%, rgba(0,0,0,1) 71%);
      font-family: "Arial";
    display: flex;
    align-items: center;
    justify-content: center;
 }
 
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
 
 #header {
 
