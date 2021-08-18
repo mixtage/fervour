@@ -1,0 +1,34 @@
+<html lang="en">
+
+
+<head>
+<title>fervour</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=0.8">
+<link rel="stylesheet" type="text/css" href="fervourack.css"/>
+
+</head>
+
+<body>
+
+<div id= container>
+	<div id= content>
+		<p style= "text-align: left">dear reader, i hope you enjoyed our match tricks.</p>		
+		<h1>thank you to our contributors</h1>
+		<p style= "text-align: left"><b>Rebecca Gault</b> is a poet and academic from Glasgow, Scotland. She is a recent graduate from her English literature programme and loves horror, fantasy and comic books. She’s well known for cat pictures, her love of the X-Men and being far too interested in vampires! </p>
+		<p style= "text-align: left"><b>Dylan Ecker</b> is a janitor at a botanical garden. There are poems of his in and around places like <i>Indiana Review</i>, <i>Outlook Springs</i>, <i>HAD</i>, <i>The Arkansas International</i>, & <i>New Ohio Review</i>. Listen to the song of the week at <a href="http://dylanecker.com">dylanecker.com</a>.</p>
+		<p style= "text-align: left"><b>Melissa Martini</b> studied Creative Writing in both undergrad and grad school. Primarily a fiction writer, she has a handful of short stories, poems, and art pieces published both online and in print. When she isn’t writing or painting, she’s playing with her dogs or reading about astrology. </p>
+		<p style= "text-align: left"><b>Clem Flowers</b> (They/ Them) is a soft spoken southern transplant living in spitting distance of some mountains in Utah. In an eternal search for the perfect sweet potato fry. Nb, bi, and queer as the day is long, they live in a cozy apartment with their wonderful wife & sweet calico kitty. They can be found on Twitter at <a href="http://twitter.com/hand_springs777">@hand_springs777</a></p>
+		<h1>acknowledgements</h1>
+		<p style= "text-align: left">gifs in <i>empty auditoriums</i> (parts 2&3) were created from footage from Canva.</p>
+		<h1>the team</h1>
+		<p style= "text-align: left">Ari Kim, Editor</p>
+		<p style= "text-align: left">Faith Lepp, Reader</p>
+
+	</div>
+</div>
+
+</body>
+
+
+</html>
