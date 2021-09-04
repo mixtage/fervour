@@ -16,6 +16,10 @@ p {
   font-family: arial;
 }
 
+h1 {
+  font-size: 100
+}
+
 
 body {
 background: rgb(231,79,37);
@@ -48,7 +52,7 @@ a:visited {
 
 a:hover {
   text-decoration: none;
-  background-color: pink;
+  background-color: yellow;
 }
 
 a:active {
